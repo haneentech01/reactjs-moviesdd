@@ -19,6 +19,7 @@ const CardMovie = ({ mov }) => {
               <p>تاريخ الاصدار: {mov.release_date}</p>
               <p>عدد المقيمين: {mov.vote_count}</p>
               <p>التقييم: {mov.vote_average}</p>
+              <p>😡</p>
             </div>
           </div>
         </div>
